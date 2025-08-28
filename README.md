@@ -20,23 +20,31 @@ Interactive filters by date and month.
 
 5📂 Dataset:
 
-  Order ID
-  Pizza Name
-  Pizza_type_id
-  Pizza Category & Size
-  Quantity & Price
-  Order Date & Time
+  Order ID,
+  Pizza Name,
+  Pizza_type_id,
+  Pizza Category & Size,
+  Quantity & Price,
+  Order Date & Time,
   
 6. 🚀 Insights from Dashboard:
 
 The Classic Pizza category contributes the highest(~26.9%) sales.
+
 Large (L) size pizzas dominate with ~46% of sales.
+
 Peak hours observed between 12 PM – 1 PM & 5 PM – 6 PM.
-Some pizzas (e.g., Brie Carre Pizza) perform poorly and may be considered for removal
-Average customer orders 2.3 pizzas per order
-Average Daily customer 108
+
+Some pizzas (e.g., Brie Carre Pizza) perform poorly and may be considered for removal.
+
+Average customer orders 2.3 pizzas per order.
+
+Average Daily customer 108.
 
 <img width="1859" height="656" alt="Screenshot 2025-08-28 160031" src="https://github.com/user-attachments/assets/0bd72f3c-a988-4f84-8a2c-ba1c8ef618ff" />
+
+<img width="1852" height="664" alt="Screenshot 2025-08-28 155923" src="https://github.com/user-attachments/assets/2d026b77-32ec-4f17-94e4-78a830563877" />
+
 
 
 
