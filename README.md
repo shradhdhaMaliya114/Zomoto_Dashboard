@@ -18,7 +18,7 @@ Top 5 & Bottom 5 Pizzas by revenue, quantity, and orders.
 Customer Trends through daily order analysis.
 Interactive filters by date and month.
 
- 5📂 Dataset:
+5📂 Dataset:
 
   Order ID
   Pizza Name
@@ -26,7 +26,7 @@ Interactive filters by date and month.
   Pizza Category & Size
   Quantity & Price
   Order Date & Time
-
+  
 6. 🚀 Insights from Dashboard:
 
 The Classic Pizza category contributes the highest(~26.9%) sales.
