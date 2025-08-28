@@ -1,5 +1,5 @@
 # Zomoto_Dashboard
-1. 📌 Project Title
+1. 
 Pizza Sales Analysis Dashboard
 
 2. 📖 Project Overview
