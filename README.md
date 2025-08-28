@@ -1,5 +1,5 @@
 # Zomoto_Dashboard
-1.Pizza Sales Analysis Dashboard
+1.Pizza Sales Analysis Dashboard Using Excel
 
 2. 📖 Project Overview:
 
