@@ -36,3 +36,7 @@ Some pizzas (e.g., Brie Carre Pizza) perform poorly and may be considered for re
 Average customer orders 2.3 pizzas per order
 Average Daily customer 108
 
+<img width="1859" height="656" alt="Screenshot 2025-08-28 160031" src="https://github.com/user-attachments/assets/0bd72f3c-a988-4f84-8a2c-ba1c8ef618ff" />
+
+
+
