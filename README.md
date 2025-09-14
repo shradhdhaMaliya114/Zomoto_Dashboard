@@ -1,15 +1,15 @@
 # Zomoto_Dashboard
 1.Pizza Sales Analysis Dashboard Using Excel
 
-2. 📖 Project Overview:
+2.  Project Overview:
 
 This project provides a data-driven dashboard for analyzing pizza sales performance. The dashboard highlights key metrics such as total revenue, total orders, average order value, best-selling pizzas, least-performing items, and sales trends by category, size, and time.
 
-3. 🎯 Problem Statement:
+3. Problem Statement:
 
 In the competitive food industry, restaurants struggle to analyze large volumes of sales data effectively. Without clear insights into customer demand, product performance, and revenue drivers, businesses face challenges in optimizing operations.
 
-4. 📊 Key Features:
+4. Key Features:
 
 Total Revenue & Average Order Value tracking.
 Peak Hour Analysis to identify busiest sales periods.
@@ -18,7 +18,7 @@ Top 5 & Bottom 5 Pizzas by revenue, quantity, and orders.
 Customer Trends through daily order analysis.
 Interactive filters by date and month.
 
-5📂 Dataset:
+5.Dataset:
 
   Order ID,
   Pizza Name,
@@ -26,8 +26,8 @@ Interactive filters by date and month.
   Pizza Category & Size,
   Quantity & Price,
   Order Date & Time,
-  
-6. 🚀 Insights from Dashboard:
+
+6. Insights from Dashboard:
 
 The Classic Pizza category contributes the highest(~26.9%) sales.
 
